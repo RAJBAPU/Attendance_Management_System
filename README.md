@@ -1,1 +1,2 @@
 # Attendance_Management_System
+ Student attendance Management system based in C++deals with the maintenance of the student attendance detail,It will be used to take attendance in the class as well as it will directly update the attendance of the students, Teachers have their login section in which they can add the student details and take the attendance similarly students have their login section in which they can see the details of their attendance.
